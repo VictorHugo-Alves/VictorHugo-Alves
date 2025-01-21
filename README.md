@@ -28,7 +28,8 @@ Olá! Sou o **[Victor Hugo]**, estudante de **Ciência da Computação** e entus
 
 ## 🌐 **Conecte-se comigo pelo Linkedin**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/victorhugo-data/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/victorhugo-data/)
+  
   
 
 ---
