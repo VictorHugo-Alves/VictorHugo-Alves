@@ -1,6 +1,6 @@
 # 💻 **Bem-vindo ao meu GitHub!**
 
-Olá! Sou o **[Victor Hugo]**, estudante de **Ciência da Computação** e entusiasta na área de **Dados**. Este espaço é dedicado a compartilhar minha evolução, estudos e projetos conforme avanço em minha jornada.
+Olá! Sou o **Victor Hugo**, estudante de **Ciência da Computação** e entusiasta na área de **Dados**. Este espaço é dedicado a compartilhar minha evolução, estudos e projetos conforme avanço em minha jornada.
 
 ---
 
