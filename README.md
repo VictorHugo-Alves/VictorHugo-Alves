@@ -1,16 +1,36 @@
-## Hi there 👋
+# 💻 **Bem-vindo ao meu GitHub!**
 
-<!--
-**VictorHugo-Alves/VictorHugo-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou o **[Victor Hugo]**, estudante de **Ciência da Computação** e entusiasta na área de **Dados**. Este espaço é dedicado a compartilhar minha evolução, estudos e projetos conforme avanço em minha jornada.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 **Sobre Mim**
+
+- 🎓 Estudante de Ciência da Computação apaixonado por tecnologia e resolução de problemas.  
+- 🎯 Objetivo atual: Desenvolver minhas habilidades em Python, SQL, Machine Learning e outras ferramentas fundamentais para a área de dados.  
+- 🚀 Iniciando um bootcamp de Ciência de Dados que abrange:  
+  - **Python**  
+  - **SQL**  
+  - **Machine Learning**  
+  - **Cloud Computing (AWS, DynamoDB)**  
+- 📚 Em breve: Publicarei projetos relacionados aos meus estudos e avanços na área de dados.
+
+
+---
+
+## 📘 **O que você pode esperar por aqui?**
+
+- 🌟 Projetos aplicados em Ciência de Dados (em breve!).  
+- 📊 Análises de dados e visualizações.  
+- 📂 Estudos de Machine Learning e automações.
+
+---
+
+## 🌐 **Conecte-se comigo pelo Linkedin**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/victorhugo-data/))  
+  
+
+---
+
+Se você tiver sugestões ou quiser colaborar, fique à vontade para me chamar. 🚀
