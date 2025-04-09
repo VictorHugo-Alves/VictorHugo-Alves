@@ -1,37 +1,81 @@
-#  **Bem-vindo ao meu GitHub!**
+# 👨🏻‍💻 Victor Hugo
 
-Olá! Sou o **Victor Hugo**, estudante de **Ciência da Computação** e entusiasta na área de **Dados**. Este espaço é dedicado a compartilhar minha evolução, estudos e projetos conforme avanço em minha jornada.
+**`Data Scientist`**
 
----
+Me chamo Victor Hugo, tenho 21 anos e sou do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na UERJ. Sou apaixonado por tecnologia e estou em busca de evoluir e adquirir cada vez mais conhecimentos para conseguir as minhas primeiras experiências na área.
 
-##  **Sobre Mim**
-
--  Estudante de Ciência da Computação apaixonado por tecnologia e resolução de problemas.  
--  Objetivo atual: Desenvolver minhas habilidades em Python, SQL, Machine Learning e outras ferramentas fundamentais para a área de dados.  
--  Iniciando um bootcamp de Ciência de Dados que abrange:  
-  - **Python**  
-  - **SQL**  
-  - **Machine Learning**  
-  - **Cloud Computing (AWS, DynamoDB)**  
--  Em breve: Publicarei projetos relacionados aos meus estudos e avanços na área de dados.
-
-
----
-
-##  **O que você pode esperar por aqui?**
-
--  Projetos aplicados em Ciência de Dados (em breve!).  
--  Análises de dados e visualizações.  
--  Estudos de Machine Learning e automações.
+<p align="left">
+    <a href="https://www.linkedin.com/in/victorhugo-data/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+        />
+    </a>
+    <a href="https://instagram.com/vhca29" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+        />
+    </a>
+</p>
 
 ---
 
-##  **Conecte-se comigo pelo Linkedin**
+### 📚 Linguagens e Tecnologias
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/victorhugo-data/)
-  
-  
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
 
----
+<br/>
+<br/>
 
-Se você tiver sugestões ou quiser colaborar, fique à vontade para me chamar. 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=VictorHugo-Alves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugo-Alves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p> 
