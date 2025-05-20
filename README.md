@@ -2,7 +2,21 @@
 
 **`Data Scientist`**
 
-Me chamo Victor Hugo, tenho 21 anos e sou do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na UERJ. Sou apaixonado por tecnologia e estou em busca de evoluir e adquirir cada vez mais conhecimentos para conseguir as minhas primeiras experiências na área.
+Olá! Me chamo Victor Hugo, sou estudante de Ciência da Computação na UERJ e tenho grande interesse na área de Dados. Estou em constante aprendizado e desenvolvimento de projetos para aplicar meus conhecimentos em:
+
+Python
+
+SQL e MySQL
+
+Modelagem de banco de dados
+
+Git e GitHub
+
+Manipulação de dados e automações com scripts
+
+Busco uma oportunidade de estágio na área de Dados para colocar em prática o que venho estudando e evoluir como profissional. Aqui no GitHub, compartilho projetos, estudos e desafios que ajudam a consolidar minha jornada.
+
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/victorhugo-data/" target="_blank">
