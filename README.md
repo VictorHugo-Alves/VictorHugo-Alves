@@ -1,23 +1,26 @@
 # Olá, sou o Victor Hugo! 
 
-Estudante de Ciência da Computação na UERJ (2º Período) com foco em desenvolvimento Backend
+Estudante de Ciência da Computação na UERJ com foco em desenvolvimento Backend
 
 ### O que estou aprendendo/focado agora:
-- **Backend Python:** Mergulhando em FastAPI para criar APIs de alta performance.
+- **Backend Python:** Mergulhando em Django para criar APIs de alta performance.
 - **Bancos de Dados:** Aprimorando habilidades em modelagem, otimização e gerenciamento de MySQL e PostgreSQL.
 - **Arquitetura de Sistemas:** Entendendo como construir soluções escaláveis.
 
-### Minhas Habilidades:
+###  Minhas Habilidades:
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-### Projeto mais recente:
+### Projetos mais recente:
 - **[Sistema de Gerenciamento de Notas](https://github.com/VictorHugo-Alves/sistema-notas)**: Um sistema Python para cadastro, gerenciamento e análise de notas de alunos, com persistência de dados em JSON. Demonstrando modularização e tratamento de exceções.
+- **[Quiz de conhecimentos em programação](https://github.com/VictorHugo-Alves/quiz-programacao)**: Projeto de quiz para testar conhecimentos de programação, construído com HTML para a criação da interface e CSS para um design responsivo e visualmente atraente.
 
 
 ### Estatísticas do GitHub:
