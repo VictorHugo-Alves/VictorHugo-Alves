@@ -7,6 +7,7 @@ Estudante de Ciência da Computação na UERJ com foco em desenvolvimento Backen
 - **Bancos de Dados:** Aprimorando habilidades em modelagem, otimização e gerenciamento de MySQL e PostgreSQL.
 - **Arquitetura de Sistemas:** Entendendo como construir soluções escaláveis.
 
+
 ###  Minhas Habilidades:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,7 +19,9 @@ Estudante de Ciência da Computação na UERJ com foco em desenvolvimento Backen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
+
 ### Projetos mais recente:
+- **[Blog simples com Django Framework](https://github.com/VictorHugo-Alves/projeto-blog)**: Um blog simples desenvolvido em Python com Django para criação, leitura, atualização e exclusão (CRUD) de postagens, com persistência de dados em SQLite. Demonstrando conceitos de Django, HTML, CSS e Bootstrap.
 - **[Sistema de Gerenciamento de Notas](https://github.com/VictorHugo-Alves/sistema-notas)**: Um sistema Python para cadastro, gerenciamento e análise de notas de alunos, com persistência de dados em JSON. Demonstrando modularização e tratamento de exceções.
 - **[Quiz de conhecimentos em programação](https://github.com/VictorHugo-Alves/quiz-programacao)**: Projeto de quiz para testar conhecimentos de programação, construído com HTML para a criação da interface e CSS para um design responsivo e visualmente atraente.
 
