@@ -21,7 +21,6 @@ Estudante de Ciência da Computação na UERJ com foco em desenvolvimento Backen
 
 
 ### Projetos mais recente:
-- **[Blog simples com Django Framework](https://github.com/VictorHugo-Alves/projeto-blog)**: Um blog simples desenvolvido em Python com Django para criação, leitura, atualização e exclusão (CRUD) de postagens, com persistência de dados em SQLite. Demonstrando conceitos de Django, HTML, CSS e Bootstrap.
 - **[Sistema de Gerenciamento de Notas](https://github.com/VictorHugo-Alves/sistema-notas)**: Um sistema Python para cadastro, gerenciamento e análise de notas de alunos, com persistência de dados em JSON. Demonstrando modularização e tratamento de exceções.
 - **[Quiz de conhecimentos em programação](https://github.com/VictorHugo-Alves/quiz-programacao)**: Projeto de quiz para testar conhecimentos de programação, construído com HTML para a criação da interface e CSS para um design responsivo e visualmente atraente.
 
